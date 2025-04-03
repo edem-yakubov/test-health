@@ -33,5 +33,7 @@ http://localhost/api/products?filters[price_from]=1000&filters[price_to]=2000&fi
 ```
 
 
+### PS:
 
+Еще надо было добавить роут на получение всех доступных вариантов и вынести manufactures/colours в отдельную таблицу, сделать enum для сайзов, но у меня уже не было времени на это
 
